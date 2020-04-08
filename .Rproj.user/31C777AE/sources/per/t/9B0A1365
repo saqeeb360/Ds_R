@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586378299996.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9B0A1365",
+    "lastKnownWriteTime" : 1100051196281,
+    "last_content_update" : 1586378299996,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "contentUrl" : "content?title=Documentation+for+package+%91base%92&file=394ed865601d4e4ebc33715e7b02b480",
+        "title" : "Documentation for package �base�"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "urlcontent"
+}
